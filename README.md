@@ -21,4 +21,5 @@ class Config:
     if flags == "":
         flags = "None"
 
-create_executeable(Config.compiler, Config.sources, Config.output, Config.flags)```
+create_executeable(Config.compiler, Config.sources, Config.output, Config.flags)
+```
